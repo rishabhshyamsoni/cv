@@ -1,0 +1,57 @@
+
+
+body {
+  background-color: #D1F2EB ;
+}
+
+h1
+{
+font-size: 23px;
+}
+h2
+{
+font-size: 20px;
+}
+img 
+{
+  vertical-align: middle;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+}
+
+hr.new1 {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 4px;
+width: 50%;
+}
+
+hr.new4 {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: grey;
+ border-width: 4px;
+width: 25%;
+}
+
+ table.new2  {
+  border: 2px solid black;
+  border-collapse: collapse;
+text-align: center;
+}
+
+
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: center;
+}
